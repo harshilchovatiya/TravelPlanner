@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #eeeeee;
+    padding-bottom: 10px;
+}
+
+h1 {
+    margin: 0;
+    color: #333333;
+}
+
+section {
+    margin: 20px 0;
+}
+
+p {
+    line-height: 1.6;
+    color: #666666;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #eeeeee;
+    padding-top: 10px;
+    color: #aaaaaa;
+}
